@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elyonaya
 - 👀 I’m interested in coding (in general)
-- 🌱 I’m currently learning Swift, JavaScript, PHP, mySQL ...
+- 🌱 I’m currently learning Swift/SwiftUI, JavaScript, HTML, CSS...
 
 <!---
 elyonaya/elyonaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
