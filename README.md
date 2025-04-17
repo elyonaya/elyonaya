@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elyonaya
-- 👀 I’m interested in coding (in general)
+- 👀 I’m interested in coding, UI/UX design, web design and graphism
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Swift/SwiftUI...
 
 <!---
